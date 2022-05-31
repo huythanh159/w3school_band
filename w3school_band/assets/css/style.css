@@ -244,7 +244,7 @@ html{
 
 /* place */
 .places-list{
-    margin-top: 32px;
+    margin-top: 16px;
     padding-bottom: 48px;
 }
 
@@ -385,6 +385,7 @@ html{
 .section-body .info-contact{
     font-weight: 500;
     line-height: 1.6;
+    margin-bottom: 16px;
 }
 .section-body .contact-form{
     font-size: 15px;
